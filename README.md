@@ -1,6 +1,6 @@
 Created using html and css.
 
-#Profile card component
+# Profile card component
 
 - Desktop
   ![desktop](./screenshots/desktop.png)
@@ -8,10 +8,10 @@ Created using html and css.
 - Mobile <br/>
   ![mobile](./screenshots/mobile.png)
 
-#Deployed site link
+# Deployed site link
 
 https://vijay-bhati-profile-card-component.netlify.app/
 
-#Reference
+# Reference
 
 - Frontend Mentor
